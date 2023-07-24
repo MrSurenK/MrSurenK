@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSurenK
 - 👀 I’m interested in an entry level role in software development. 
-- 🌱 I’m currently learning full-stack web development.(HTML, CSS & Javascript)
+- 🌱 I’m currently learning full-stack web development.(HTML, CSS , Javascript & React)
 - 💞️ I’m looking to collaborate on web development and javascript projects.
 - 📫 How to reach me: https://www.linkedin.com/in/surendrarajk/
 
